@@ -3,6 +3,7 @@ import cv2
 import os
 import matplotlib.pyplot as plt
 import tensorflow as tf
+from tensorflow.keras import models, layers
 
 mnist = tf.keras.datasets.mnist
 
