@@ -1,4 +1,5 @@
 # Project: MNIST Digit Recognition Using Convolutional Neural Networks
+![AI project drawio pdf drawio](https://github.com/Mubashir-19/AI-Course-Work/assets/64585653/f89982a6-a23e-4abb-a71d-0e08b0ed11ff)
 
 ## Table of Contents
 1. [Introduction](#introduction)
