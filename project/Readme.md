@@ -46,8 +46,11 @@ The model is trained using the following configurations:
 The convolutional neural network achieved a high accuracy on the MNIST digit recognition task, demonstrating the effectiveness of CNNs in image classification problems. Future work could include exploring deeper architectures or applying the model to more complex datasets.
 
 ## References
-1. [Yann LeCun et al., "Gradient-Based Learning Applied to Document Recognition"](http://yann.lecun.com/exdb/publis/pdf/lecun-98.pdf)
-2. [MNIST Database](http://yann.lecun.com/exdb/mnist/)
-3. [TensorFlow Documentation](https://www.tensorflow.org/)
-4. [Keras Documentation](https://keras.io/)
+1. ([AN ENSEMBLE OF SIMPLE CONVOLUTIONAL NEURAL
+ NETWORK MODELS FOR MNIST DIGIT RECOGNITION](https://github.com/Mubashir-19/AI-Course-Work/blob/main/MNIST%20Digit%20Recognition%20Paper%202.pdf))
+2. ([Assessing Four Neural Networks on Handwritten
+ Digit Recognition Dataset (MNIST)](https://github.com/Mubashir-19/AI-Course-Work/blob/main/MNIST%20DIGIT%20Recognition%20Paper%201.pdf)) 
+3. [MNIST Database](http://yann.lecun.com/exdb/mnist/)
+4. [TensorFlow Documentation](https://www.tensorflow.org/)
+5. [Keras Documentation](https://keras.io/)
 
